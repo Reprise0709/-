@@ -1,1 +1,1 @@
-# -
+# -These are the experiments reports of the general physics course in Peking University. I uploaded these documents in order to help fellow students, but you cannot copy them and hand them to the teacher. There are also mistakes in the documents, so you may regard them as references but not correct answers. 
